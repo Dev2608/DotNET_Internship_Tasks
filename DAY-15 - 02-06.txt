@@ -1,0 +1,11 @@
+create API for grid view
+
+having 5 parameters
+
+parameter 1. column name attribute name
+parameter 2. number of rows which can contain in single page
+             (decided by the user , having dropdown option for number of rows)
+parameter 3. search keyword
+	     (the name given in this word matching the number of data records in the database)
+parameter 4. to provide pagination option
+parameter 5. to provide DESC/ASC for set the data in asscending and desecending order.

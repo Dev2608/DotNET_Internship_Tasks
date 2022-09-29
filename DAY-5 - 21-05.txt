@@ -1,0 +1,7 @@
+Insert
+Update
+Delete
+select (Select all and Select by id)
+using entity framework
+
+Research and implementation

@@ -1,0 +1,7 @@
+create API for the employee table ,
+in that the detail of employee should be provided by the user and we have to enter that detail in the database,
+and also user have to provide joining date and on that joining date, 
+we have to generate contract ending date and we have to store that date in the database.
+
+previous task update:
+create stored procedure for the query which is in the previous task.

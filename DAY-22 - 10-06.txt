@@ -1,0 +1,5 @@
+Select Query in two level
+
+in InsertProductController 
+
+create api for give the data of two levels.

@@ -1,0 +1,6 @@
+Reseacrch about auhentication and authorization.
+
+types of authentication and authorization in dotnet
+which is better from them.
+
+ 

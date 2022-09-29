@@ -1,0 +1,2 @@
+APLC Project Discussion
+setup for that project--(SVN, SQL Server)

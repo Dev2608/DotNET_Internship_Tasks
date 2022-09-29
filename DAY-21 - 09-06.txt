@@ -1,0 +1,11 @@
+research about : - 
+
+insert , update , delete using entity framework.
+three operation in DB
+- begun
+- rollback
+- commit
+
+and 
+
+short the code (code optimization)

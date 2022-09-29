@@ -1,0 +1,89 @@
+									CODING STANDARDS FOR ASP.NET
+
+						( create a consistent look to the code, so that readers can focus on content, not layout.)
+
+
+- TWO TYPES OF NAMING Conventions: -
+1. Pascal Casing ( HelloWorld )
+--> used for class names
+--> used for method names
+
+2. Camel Casing  ( helloWorld )
+--> used for variables names
+--> used for method parameters names
+--> Use the prefix “I” with Camel Casing for interfaces ( Example: IEntity ) 
+
+
+==> Do not use Hungarian notation to name variables in dotnet standard. 
+--> data type as a prefix for the variable name and using m_ as prefix for member variables (EXAMPLE : string m_sName;   int nAge; )
+
+==> Use Meaningful, descriptive words to name variables. Do not use abbreviations. (EXAMPLE : string address;     int salary; )
+--> do not use like this -- ( string nam         string addr )
+
+==> Do not use single character variable names like i, n, s etc. Use names like index, temp
+
+==> Do not use underscores ( _ ) for local variable names. 
+
+==> All member variables must be prefixed with underscore ( _ ) so that they can be identified from other local variables.
+
+==> Do not use variable names that resemble keywords.
+
+==> Prefix boolean variables, properties and methods with “is” or similar prefixes.  (EXAMPLE : bool _isFinished)
+
+==> Namespace names should follow the standard pattern.	   	(EXAMPLE : <company name>.<product name>.<top level module>.<bottom level module>)
+
+==> Use a common prefix ( ui_ ) for all UI elements. 
+    OR   .NET has given several controls    ( EXAMPLE : lbl for Label , btn for Button etc. )
+
+==> File name should match with class name.     ( EXAMPLE : for the class HelloWorld, the file name should be helloworld.cs )
+
+==> Use Pascal Case for file names.
+
+==> Use parentheses to make clauses in an expression apparent.  (EXAMPLE : if ((val1 > val2) && (val1 > val3))  )
+
+==> Write only one statement per line.
+--> Write only one declaration per line.
+--> If continuation lines are not indented automatically, indent them.
+--> Add at least one blank line between method definitions and property definitions.
+
+==> Insert one space between the comment delimiter (//) and the comment text in comment.  ( EXAMPLE : // the query )
+--> Use // or /// for comments. Avoid using /* … */
+
+==> Curly braces ( {} ) should be in the same level as the code outside the braces. 
+
+==> Use one blank line to separate logical groups of code.
+
+==> There should be one and only one single blank line between each method inside the class.
+
+==> Use a single space before and after each operator and brackets. 
+
+==> Keep private member variables, properties and methods in the top of the file and public members in the bottom.  
+
+==> Avoid writing very long methods. A method should typically have 1 to 25 lines of code, if not then refactor it.
+--> Method name should tell what it does. (Hence not need for documentation)
+--> A method should do only 'one job'. Do not combine more than one job in a single method
+
+==> Use the c# or VB.NET specific types (aliases), rather than the types defined in System namespace.     ( EXAMPLE : int age; -- (not Int16)  )
+
+==> Use String.Empty instead of “”.
+
+==> Never hardcode a path or drive name in code. Get the application path programmatically and use relative path. 
+
+==> In the application start up, do some kind of "self check" and ensure all required files and dependancies are available in the expected locations. 
+    Check for database connection in start up, if required. Give a friendly message to the user in case of any problems. 
+
+==> Error messages should help the user to solve the problem. Never give error messages like "Error in Application", "There is an error" etc. 
+    Instead give specific messages like "Failed to update database. Please make sure the login id and password are correct."
+
+==> When displaying error messages, in addition to telling what is wrong, the message should also tell what should the user do to solve the problem. 
+    Instead of message like "Failed to update database.", 
+    suggest what should the user do: "Failed to update database. Please make sure the login id and password are correct." 
+
+==> Do not have more than one class in a single file.
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+Stored Procedures 
+Insert Operation for array of objects (using postman as a frontend)
+Insert Operation for two table's data which are comming from one object only (using postman)

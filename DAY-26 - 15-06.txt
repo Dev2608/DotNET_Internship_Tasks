@@ -1,0 +1,5 @@
+Copy of one table data to another table in same database
+
+Copy of one table data to another table in other database
+
+Research about WITH clause and build one sql query for reference

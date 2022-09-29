@@ -1,0 +1,7 @@
+Create API for show the data in grid view
+(Only back end code)
+
+Api containing 5 parameters
+(parameters are passed from the body)
+according to that parameters i need to show the data accordingly
+

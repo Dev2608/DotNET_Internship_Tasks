@@ -1,0 +1,7 @@
+1. Learns how to create web API for CRUD operations practically.
+   Select All
+   Select By Id
+   Insert
+   Update
+   Delete
+ 

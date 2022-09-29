@@ -1,0 +1,5 @@
+Insert 
+Update 
+Delete
+Select (select all and select by ID) 
+using SQL queries with the help of class library's ".cs" file

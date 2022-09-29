@@ -1,0 +1,2 @@
+continue to day-18 - 06-06
+research about coding standards for c# asp.net

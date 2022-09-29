@@ -1,0 +1,9 @@
+create one backend application
+containing
+
+1. Register API
+2. LOGIN API
+3. Select API (with OAuth authorization)
+4. Database containing related detail (loginRegisterDB)
+
+tested this application using POSTMAN

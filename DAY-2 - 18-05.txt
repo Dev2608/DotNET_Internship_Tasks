@@ -1,0 +1,20 @@
+1. MVC Life Cycle
+
+2. How MVC works
+
+3. Difference of MVC vs WEB API
+
+4. How web API works
+
+5. MVC Routes
+
+6. WEB API Routes
+
+7. Difference Between MVC Routes and WEB API Routes
+
+8. POSTMAN Working
+
+9. Create DataBase in sql server management studio
+
+10. create 4 tables in SQL Server Management Studio
+

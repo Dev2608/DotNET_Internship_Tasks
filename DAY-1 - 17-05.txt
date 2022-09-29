@@ -1,0 +1,42 @@
+DAY-1
+
+1. data types
+https://www.geeksforgeeks.org/c-sharp-data-types/
+
+2. string functions
+https://www.programiz.com/csharp-programming/string
+
+3. math functions 
+https://www.c-sharpcorner.com/UploadFile/mkagrahari/introduction-to-object-oriented-programming-concepts-in-C-Sharp/
+
+4. OOP concepts
+https://www.c-sharpcorner.com/UploadFile/mkagrahari/introduction-to-object-oriented-programming-concepts-in-C-Sharp/
+
+5. SQL server
+https://www.google.com/search?client=firefox-b-d&q=what+is+sql+server
+
+6. SQL server Datatypes
+https://www.sqlservertutorial.net/sql-server-basics/sql-server-data-types/
+
+7. DDL Statements (Data Definition Language)
+https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
+
+8. DML Statements (Data Manipulation Language)
+https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
+
+9. all types of joins
+https://www.w3schools.com/sql/sql_join.asp
+
+10. all types of HTTP error codes
+https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+
+11. what is HTTPGET, HTTPPOST, HTTPPUT, HTTPDELETE.
+Simply Google search
+
+12. How MVC Works
+
+13. How Web API works.
+
+14. POSTMAN
+
+15. List (Doubly Linked List)(Only Theory)
